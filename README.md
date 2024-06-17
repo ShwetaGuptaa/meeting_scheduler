@@ -19,7 +19,7 @@ API is not yet deployed anywhere. It can be tested on local computer
 
 ### Perform below steps on cmd
 ```
-git clone <repository_url>
+https://github.com/ShwetaGuptaa/meeting_scheduler.git
 cd meeting_scheduler
 virtualenv venv
 source venv/bin/activate
