@@ -23,7 +23,7 @@ git clone <repository_url>
 cd meeting_scheduler
 virtualenv venv
 source venv/bin/activate
-pip install requirements.txt
+pip install -r requirements.txt
 python server.py
 ```
 
